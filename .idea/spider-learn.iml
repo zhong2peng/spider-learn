@@ -5,9 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/demo1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/demo2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/demo3" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <sourceFolder url="file://$MODULE_DIR$/demo4" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (spider-learn)" jdkType="Python SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
